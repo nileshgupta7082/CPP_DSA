@@ -1,0 +1,15 @@
+# Compiled Executables and Binaries
+*.exe
+*.out
+*.app
+*.bin
+
+# Compiled Object Files
+*.o
+*.obj
+
+# Debugging Symbols and Dumps
+*.pdb
+*.ilk
+*.dSYM/
+*.stackdump
